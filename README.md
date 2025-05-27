@@ -11,7 +11,7 @@ Instructions
 5. Within folder: create empty folder named templates
 6. Within folder: Within static folder: store style.css
 7. Within folder: Within templates folder: store upload.html & result.html
-8. Open main.py in VSCode
+8. Open main.py on VSCode
 9. Create new terminal
 10. (Optional) Install dependencies and/or create virtual environment
 11. Run command in terminal: python main.py
