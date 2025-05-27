@@ -4,7 +4,7 @@ AIMS-DTU Research Intern Round 2
 
 Instructions
 
-1. Dowwnload all files (training.ipynb is for explanatory purposes and not needed for the program to run)
+1. Download all files (training.ipynb is for explanatory purposes and not needed for the program to run)
 2. Create a single folder/directory
 3. Within folder: store main.py & autoencoder.keras
 4. Within folder: create empty folder named static
