@@ -15,7 +15,7 @@ Instructions
 7. Within folder: Within templates folder: store upload.html & result.html
 8. Open main.py on VSCode
 9. Create new terminal
-10. (Optional) Install dependencies and/or create virtual environment
+10. Install dependencies and/or create virtual environment
 11. Run command in terminal: python main.py
 
 Terminal will return following type of output:
