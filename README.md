@@ -2,8 +2,6 @@
 
 AIMS-DTU Research Intern Round 2
 
-IMPORTANT! NOTE: Updated Deepfake Detector now has 90% accuracy on the test set. Please replace autoencoder.keras in your directory with the following file for the latest version: https://drive.google.com/file/d/1Va3Sn8r8D2VYoPB43BJ07E-taZlp-BM8/view?usp=sharing
-
 Instructions
 
 1. Download all files (training.ipynb is for explanatory purposes and not needed for the program to run)
