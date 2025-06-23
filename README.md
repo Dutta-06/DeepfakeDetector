@@ -25,4 +25,5 @@ WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://XXXXX (sample ip)
 
 Final step: Open the url on web browser
+
 The project can be found directly with the given URL as well: https://deepfake-detector-app-282468354224.asia-south2.run.app/
